@@ -65,6 +65,11 @@ body {
     }
 }
 
+.img-project {
+  width: 95%;
+  height: 30vh;
+}
+
 .page-two {
     height: 100vh;
     width: 100vw;
