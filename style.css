@@ -210,6 +210,10 @@ img {
     .myImg {
       width: 60vw;
     }
+    .project-h2 {
+      font-size: 2rem;
+      margin-top: 40vh;
+    }
 
     }   
 
